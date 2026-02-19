@@ -51,7 +51,7 @@ The application recalculates the time difference every second and updates the pa
 After deployment, your site will be available at:
 
 ```
-https://YOUR-USERNAME.github.io/countdown-to-may-13-2026/
+[https://YOUR-USERNAME.github.io/countdown-to-may-13-2026/](https://jackson202-svg.github.io/May-13-2026/)
 ```
 
 Example:
