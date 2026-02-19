@@ -73,6 +73,7 @@ How it works:
 4. Save
 
 Your site will be available at:
+
 https://yourusername.github.io/repository-name/
 ---
 
